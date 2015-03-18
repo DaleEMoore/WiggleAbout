@@ -12,6 +12,16 @@ public class MainActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        // TODO; how do I get this to output the date and time?
+        // From http://www.technotalkative.com/android-get-current-date-and-time/
+        //Calendar c = Calendar.getInstance();
+        //System.out.println("Current time =&gt; "+c.getTime());
+
+        //SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        //String formattedDate = df.format(c.getTime());
+        // Now formattedDate have current date/time
+        //Toast.makeText(this, formattedDate, Toast.LENGTH_SHORT).show();
     }
 
 
