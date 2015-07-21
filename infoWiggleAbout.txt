@@ -4,9 +4,11 @@ Overview
 If I don't move in a while, remind me to do so.
 
 TODO
-Figure out how to tell if I've moved.
 Get the time.
+    http://developer.android.com/reference/android/text/format/Time.html
+
 Wait a while.
+Figure out how to tell if I've moved.
 Check the time and if I've moved.
 If I haven't moved, tell me to do so.
 
@@ -15,5 +17,11 @@ Logs
 Monday 16 March 2015 8:47 AM CST
 Created WiggleAbout, my first Android-Studio application.
 It's nothing more than a blank for to start with, but; the process of Installing android-studio on
-Ubuntu, Creating a new project, Building the APK and copying it to my Motorola Phone was all
-successful; YEA!
+Ubuntu, Creating a new project, Building the APK and copying it to my Motorola "Moto G" Phone was
+all successful; YEA!
+
+Set my Moto G to Developer mode
+    Settings, About Device, Build, tap 7 times.
+    Settings, System section, Developer options, set USB debugging on.
+    Allow RSA key debugging.
+    Motorola XT1045 Android 4.4.4 (API 19...
