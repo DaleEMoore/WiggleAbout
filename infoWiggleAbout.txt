@@ -12,6 +12,8 @@ Figure out how to tell if I've moved.
 Check the time and if I've moved.
 If I haven't moved, tell me to do so.
 
+And configure for a good virtual device Motorola G LXE?
+
 
 Logs
 Monday 16 March 2015 8:47 AM CST

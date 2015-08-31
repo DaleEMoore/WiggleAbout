@@ -2,6 +2,7 @@
     <string name="app_name">WiggleAbout</string>
 
     <string name="hello_world">Hello world!</string>
+    <string name="hello_dale">Hello Dale E. Moore!</string>
     <string name="hello_bill">Hello C. W. (Bill) Spinks!</string>
     <string name="action_settings">Settings</string>
 </resources>
