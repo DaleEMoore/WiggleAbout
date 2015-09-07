@@ -5,10 +5,16 @@ If I don't move in a while, remind me to do so.
 
 TODO
 Get the time.
-    http://developer.android.com/reference/android/text/format/Time.html
+    http://developer.android.com/reference/java/util/GregorianCalendar.html
+    Old: http://developer.android.com/reference/android/text/format/Time.html
+Wait, or sleep until it's time to tell user it's time to wiggle.
+    http://stackoverflow.com/questions/1036754/difference-between-wait-and-sleep
+    Object.wait()
+    http://stackoverflow.com/questions/1520887/how-to-pause-sleep-thread-or-process-in-android
 
-Wait a while.
 Figure out how to tell if I've moved.
+    GPS
+    Steps like pedometer
 Check the time and if I've moved.
 If I haven't moved, tell me to do so.
 
